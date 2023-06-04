@@ -1,0 +1,16 @@
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\bin\Debug\mvvm.exe.config
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\bin\Debug\mvvm.exe
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\bin\Debug\mvvm.pdb
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\obj\Debug\mvvm.csproj.AssemblyReference.cache
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\obj\Debug\mvvm.csproj.SuggestedBindingRedirects.cache
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\obj\Debug\MainWindow.g.cs
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\obj\Debug\App.g.cs
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\obj\Debug\mvvm_MarkupCompile.cache
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\obj\Debug\mvvm_MarkupCompile.lref
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\obj\Debug\MainWindow.baml
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\obj\Debug\mvvm.g.resources
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\obj\Debug\mvvm.Properties.Resources.resources
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\obj\Debug\mvvm.csproj.GenerateResource.cache
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\obj\Debug\mvvm.csproj.CoreCompileInputs.cache
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\obj\Debug\mvvm.exe
+D:\основы разработки приложений с использованием windows forms и wpf\mvvm\mvvm\obj\Debug\mvvm.pdb

@@ -1,0 +1,40 @@
+﻿<Window x:Class="mvvm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mvvm"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock>name</TextBlock>
+        <TextBox></TextBox>
+        <TextBlock>payment kind</TextBlock>
+        <ComboBox>
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Text="{Binding Employee.Charge, Mode=TwoWay}"></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+            <ComboBoxItem>salary</ComboBoxItem>
+            <ComboBoxItem>hourly wage</ComboBoxItem>
+            <ComboBoxItem>fee</ComboBoxItem>
+        </ComboBox>
+        <TextBlock>salary or bet</TextBlock>
+        <ComboBox>
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Text="{Binding Employee.Selection, Mode=TwoWay}"></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+            <ComboBoxItem>salary</ComboBoxItem>
+            <ComboBoxItem Name="bet">bet</ComboBoxItem>
+        </ComboBox>
+        <TextBlock Name="hour_amount" Visibility="{Binding ViewModel.Is_shown}">hour amount</TextBlock>
+        <TextBox Name="amount" Visibility="{Binding ViewModel.Is_shown}"></TextBox>
+    </StackPanel>
+</Window>
